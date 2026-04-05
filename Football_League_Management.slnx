@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Football_League.BLL/Football_League.BLL.csproj" Id="95b19d93-3655-4860-84a8-775dc1cd3c59" />
+  <Project Path="Football_League.DA/Football_League.DAL.csproj" Id="5f1950ed-a1e2-4bbf-8841-1a8c50ec7aea" />
+  <Project Path="Football_League.UI/Football_League.UI.csproj" Id="58aa81f2-0632-4731-84d1-a2a53123198d" />
+</Solution>
